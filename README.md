@@ -4,7 +4,7 @@
 A software application designed to efficiently manage and organize employee information, departmental details, and roles within a business. The application utilizes a database, providing users with seamless access to view and update data effortlessly.
 ## Table of Contents
 * [Installation](#installation)
-* [How to Use This Application](#HowtoUseThisApplication)
+* [Usage](#usage)
 * [Testing](#testing)
 * [Contributors](#contributors)
 * [Questions](#questions)
@@ -12,8 +12,9 @@ A software application designed to efficiently manage and organize employee info
 ## Installation
 Clone repo => install dependencies 
 
-## How to Use This Application:
-To Start the application , input "node index" in your terminal.
+## Usage
+
+Mock Video of functionality: https://drive.google.com/file/d/1Y2SmIyN1SC2kRM6sc8GKQZftsMFwlwhU/view
 
 ## Testing
 None
