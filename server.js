@@ -6,7 +6,7 @@ const db = mysql.createConnection(
     {
       host: 'localhost',
       user: 'root',
-      password: 'Papi$hampo0',
+      password: '',
       database: 'ets_db'
     },
     (err) => {
